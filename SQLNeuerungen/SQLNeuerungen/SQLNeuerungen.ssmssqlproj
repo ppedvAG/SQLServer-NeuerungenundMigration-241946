@@ -58,6 +58,30 @@
           <AssociatedConnUserName />
           <FullPath>04_MAXDOP.sql</FullPath>
         </FileNode>
+        <FileNode Name="07_Columnstore_realtime_inMemory.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07_Columnstore_realtime_inMemory.sql</FullPath>
+        </FileNode>
+        <FileNode Name="apply-in-memory-oltp.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>apply-in-memory-oltp.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Columnstore.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Columnstore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="setup-or-reset-demo.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>setup-or-reset-demo.sql</FullPath>
+        </FileNode>
         <FileNode Name="Z_instnwnd.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
