@@ -53,7 +53,12 @@ where
 
 --Noch besser.. DS für einen Zeitpunkt
 select * from contacts 
-    FOR SYSTEM_TIME AS OF'2024-03-08 14:20:21'
+    FOR SYSTEM_TIME AS OF'2024-06-19 08:01:50'
+
+
+select cid from contacts
+INTERSECT
+select cid from contactshistory
 
 
 select * from contacts 
